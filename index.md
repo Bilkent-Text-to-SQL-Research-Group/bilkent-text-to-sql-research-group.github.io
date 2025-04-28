@@ -34,6 +34,7 @@ layout: default
 ### Past Members
 - Dr. Arif Usta
 - Akifhan Karakayalı
+- Mousa F. Azari
 
 <a name="undergraduate_students"></a>
 ### Undergraduate Students
