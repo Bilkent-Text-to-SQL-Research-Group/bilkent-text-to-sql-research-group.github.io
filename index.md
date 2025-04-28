@@ -11,6 +11,7 @@ layout: default
 - [Repositories](#repositories)
 - [Past Members](#pastmembers)
 - [Undergraduate Students](#undergraduate_students)
+- [Sponsored Projects](#sponsored_projects)
 
 <a name="members"></a>
 ### Members
