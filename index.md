@@ -11,7 +11,6 @@ layout: default
 - [Repositories](#repositories)
 - [Past Members](#pastmembers)
 - [Undergraduate Students](#undergraduate_students)
-- [Sponsored Projects](#sponsored_projects)
 
 <a name="members"></a>
 ### Members
@@ -21,12 +20,14 @@ layout: default
 
 <a name="publications"></a>
 ### Publications
+- Hasan Alp Caferoğlu, Mehmet Serhat Çelik and Özgür Ulusoy. "SING-SQL: A Synthetic Data Generation Framework for In-Domain Text-to-SQL Translation" [![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://arxiv.org/abs/2509.25672) 
 - Hasan Alp Caferoğlu and Özgür Ulusoy. "E-SQL: Direct Schema Linking via Question Enrichment in Text-to-SQL" [![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://www.arxiv.org/abs/2409.16751) 
 - Arif Usta, Akifhan Karakayalı and Özgür Ulusoy. "xDBTagger: explainable natural language interface to databases using keyword mappings and schema graph", VLDB Journal, vol.33, 2024. [![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://arxiv.org/abs/2210.03768) 
 - Arif Usta, Akifhan Karakayalı and Özgür Ulusoy.  "DBTagger: Multi-Task Learning for Keyword Mapping in NLIDBs Using Bi-Directional Recurrent Neural Networks", Proceedings of the VLDB Endowment, vol.14, no.5, 2021. [![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://arxiv.org/abs/2101.04226) 
 
 <a name="repositories"></a>
 ### Repositories
+- ["SING-SQL: A Synthetic Data Generation Framework for In-Domain Text-to-SQL Translation](https://github.com/HasanAlpCaferoglu/SING-SQL)
 - [E-SQL: Direct Schema Linking via Question Enrichment in Text-to-SQL](https://github.com/Bilkent-Text-to-SQL-Research-Group/E-SQL)
 - [DBTagger](https://github.com/Bilkent-Text-to-SQL-Research-Group/DBTagger)
 
@@ -34,10 +35,12 @@ layout: default
 ### Past Members
 - Dr. Arif Usta
 - Akifhan Karakayalı
-- Mousa F. Azari
 
 <a name="undergraduate_students"></a>
 ### Undergraduate Students
+- Mehmet Serhat Çelik (2025-2026)
+- Emir Görgülü (2025-2026)
+- Yiğit Kemal Can (2025-2026)
 - İlhami Uluğtürkkan (2024-2025)
 - Mehmet Bahattin Dulkadiroğlu (2024-2025)
 - Efe Kaan Fidanci (2024-2025)
@@ -47,7 +50,7 @@ layout: default
 
 <a name="sponsored_projects"></a>
 ### Sponsored Projects
+- Translating Natural Language Queries into Structured Query Language
+*Sponsor: Scientific and Technical Research Council of Turkey - TÜBITAK (Grant No: 125E386), 2025-2027.
 - Applying Information Retrieval Paradigms in Natural Language to SQL Translation  
 *Sponsor: Scientific and Technical Research Council of Turkey - TÜBITAK (Grant No: 118E724), 2019-2021.
-
-
