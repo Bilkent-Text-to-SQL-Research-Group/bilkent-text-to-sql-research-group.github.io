@@ -17,6 +17,7 @@ layout: default
 - [Prof. Dr. Özgür Ulusoy](https://www.cs.bilkent.edu.tr/~oulusoy/)
 - [Hasan Alp Caferoğlu](https://www.alpcaferoglu.com/)
 - Ekrem Polat
+- Nima Bagherzadeh
 
 <a name="publications"></a>
 ### Publications
@@ -35,6 +36,7 @@ layout: default
 ### Past Members
 - Dr. Arif Usta
 - Akifhan Karakayalı
+- Mousa Farshkar Azari
 
 <a name="undergraduate_students"></a>
 ### Undergraduate Students
