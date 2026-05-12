@@ -27,7 +27,7 @@ layout: default
 
 <a name="repositories"></a>
 ### Repositories
-- ["SING-SQL: A Synthetic Data Generation Framework for In-Domain Text-to-SQL Translation](https://github.com/HasanAlpCaferoglu/SING-SQL)
+- [SING-SQL: A Synthetic Data Generation Framework for In-Domain Text-to-SQL Translation](https://github.com/HasanAlpCaferoglu/SING-SQL)
 - [E-SQL: Direct Schema Linking via Question Enrichment in Text-to-SQL](https://github.com/Bilkent-Text-to-SQL-Research-Group/E-SQL)
 - [DBTagger](https://github.com/Bilkent-Text-to-SQL-Research-Group/DBTagger)
 
